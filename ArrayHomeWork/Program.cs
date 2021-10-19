@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 
+
+/// Test for GITHUB!
 namespace ArrayHomeWork
 {
     class Program
